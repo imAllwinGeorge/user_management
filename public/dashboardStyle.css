@@ -1,0 +1,331 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #343a40;
+    padding: 1rem;
+}
+
+.navbar h1 {
+    color: white;
+    margin: 0;
+    font-size: 1.75rem;
+}
+
+.navbar .btn {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+}
+
+.dashboard-container {
+    padding: 2rem;
+    background-color: #fff;
+    margin: 2rem auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    max-width: 1000px;
+}
+
+h2 {
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+}
+
+.table-controls {
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.table-controls .btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+}
+
+.user-table th, .user-table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.user-table {
+    width: 100%;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+}
+
+.edit-btn, .delete-btn {
+    margin-right: 0.5rem;
+}
+
+.edit-btn {
+    background-color: #ffc107;
+    border: none;
+    color: white;
+    padding: 0.3rem 0.75rem;
+    font-size: 0.9rem;
+}
+
+.delete-btn {
+    background-color: #dc3545;
+    border: none;
+    color: white;
+    padding: 0.3rem 0.75rem;
+    font-size: 0.9rem;
+}
+
+/* Table styling */
+table.table-bordered {
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+table th, table td {
+    padding: 1rem;
+    border: 1px solid #dee2e6;
+}
+
+table thead {
+    background-color: #343a40;
+    color: white;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .dashboard-container {
+        padding: 1rem;
+        margin: 1rem;
+    }
+
+    .table-controls .btn {
+        font-size: 0.875rem;
+        padding: 0.4rem 0.8rem;
+    }
+
+    table th, table td {
+        padding: 0.5rem;
+    }
+}
+
+
+
+
+/* with bootstrap modal */
+
+
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #343a40;
+    padding: 1rem;
+}
+
+.navbar h1 {
+    color: white;
+    margin: 0;
+    font-size: 1.75rem;
+}
+
+.navbar .btn {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+}
+
+.dashboard-container {
+    padding: 2rem;
+    background-color: #fff;
+    margin: 2rem auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    max-width: 1000px;
+}
+
+h2 {
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+}
+
+.table-controls {
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.table-controls .btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+}
+
+.user-table th, .user-table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.user-table {
+    width: 100%;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+}
+
+.edit-btn, .delete-btn {
+    margin-right: 0.5rem;
+}
+
+.edit-btn {
+    background-color: #ffc107;
+    border: none;
+    color: white;
+    padding: 0.3rem 0.75rem;
+    font-size: 0.9rem;
+}
+
+.delete-btn {
+    background-color: #dc3545;
+    border: none;
+    color: white;
+    padding: 0.3rem 0.75rem;
+    font-size: 0.9rem;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .dashboard-container {
+        padding: 1rem;
+        margin: 1rem;
+    }
+
+    .table-controls .btn {
+        font-size: 0.875rem;
+        padding: 0.4rem 0.8rem;
+    }
+
+    table th, table td {
+        padding: 0.5rem;
+    }
+}
+
+
+
+
+
+
+
+/* qwerty */
+
+
+
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #343a40;
+    padding: 1rem;
+}
+
+.navbar h1 {
+    color: white;
+    margin: 0;
+    font-size: 1.75rem;
+}
+
+.navbar .btn {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+}
+
+.dashboard-container {
+    padding: 2rem;
+    background-color: #fff;
+    margin: 2rem auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    max-width: 1000px;
+}
+
+h2 {
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+}
+
+.table-controls {
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.table-controls .btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+}
+
+.user-table th, .user-table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.user-table {
+    width: 100%;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+}
+
+.edit-btn, .delete-btn {
+    margin-right: 0.5rem;
+}
+
+.edit-btn {
+    background-color: #ffc107;
+    border: none;
+    color: white;
+    padding: 0.3rem 0.75rem;
+    font-size: 0.9rem;
+}
+
+.delete-btn {
+    background-color: #dc3545;
+    border: none;
+    color: white;
+    padding: 0.3rem 0.75rem;
+    font-size: 0.9rem;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .dashboard-container {
+        padding: 1rem;
+        margin: 1rem;
+    }
+
+    .table-controls .btn {
+        font-size: 0.875rem;
+        padding: 0.4rem 0.8rem;
+    }
+
+    table th, table td {
+        padding: 0.5rem;
+    }
+}
